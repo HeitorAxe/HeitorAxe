@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorAxe&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riannbarbosa&show_icons=true&theme=radical)
 <!--
 **HeitorAxe/HeitorAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
